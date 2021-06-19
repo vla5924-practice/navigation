@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Добро пожаловать
 
-You can use the [editor on GitHub](https://github.com/vla5924-practice/navigation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+На этой странице опубликованы репозитории с выполненной мной учебной практикой в университете (а именно лабораторные и практические работы). Ниже вы можете ознакомиться с ними в виде удобного списка.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 3 курс (2020-2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Параллельное программирование](https://github.com/vla5924-practice/parallel-programming)
+  &middot; C++, MPI, OpenMP, TBB
+* [Вычислительные методы](https://github.com/vla5924-practice/computational-methods)
+  &middot; C++, Qt
+* [Обработка изображений](https://github.com/vla5924-practice/image-processing)
+  &middot; Python, OpenCV
+* [Технологии сети Интернет](https://github.com/vla5924-practice/internet-technologies)
+  &middot; HTML, JavaScript, NodeJS
+* [Компиляторы](https://github.com/vla5924-practice/compilers)
+  &middot; C++, LLVM
+* [Инструменты разработки ПО](https://github.com/vla5924-practice/development-tools)
+  &middot; C++
+* [Разработка сетевых приложений](https://github.com/vla5924-practice/network-applications)
+  &middot; Java
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 2 курс (2019-2020)
 
-- Bulleted
-- List
+* [Методы программирования](https://github.com/vla5924-practice/programming-methods)
+  &middot; C++
+* [Компьютерная графика](https://github.com/vla5924-practice/computer-graphics)
+  &middot; C++, Qt, OpenGL
+* [Операционные системы](https://github.com/vla5924-practice/operating-systems)
+  &middot; C, Bash
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 1 курс (2018-2019)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vla5924-practice/navigation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Методы программирования](https://github.com/vla5924-practice/programming-methods/tree/master/1st_year)
+  &middot; C, C++
