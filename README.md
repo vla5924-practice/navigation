@@ -7,6 +7,8 @@
 
 * [Технологии программирования мобильных систем](https://github.com/vla5924-practice/mobile-systems)
   &middot; C++, Qt, QML
+* [Программирование на GPU](https://github.com/vla5924-practice/gpu-programming)
+  &middot; C++, OpenCL
 
 
 ### 3 курс (2020-2021)
