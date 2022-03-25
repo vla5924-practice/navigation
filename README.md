@@ -5,6 +5,8 @@
 
 ### 4 курс (2021-2022)
 
+* [Гетерогенные вычисления с использованием DPC++](https://github.com/vla5924-practice/heterogeneous-computing)
+  &middot; DPC++
 * [Машинное обучение и анализ данных](https://github.com/vla5924-practice/machine-learning)
   &middot; Python
 * [Основы компьютерного зрения](https://github.com/vla5924-practice/computer-vision)
@@ -15,6 +17,8 @@
   &middot; Java
 * [Разработка компилятора](https://github.com/vla5924-practice/compiler-project)
   &middot; C++
+* [Системы поддержки принятия решений](https://github.com/vla5924-practice/decision-support-systems)
+  &middot; Python
 * [Технологии программирования мобильных систем](https://github.com/vla5924-practice/mobile-systems)
   &middot; C++, Qt, QML
 
@@ -29,6 +33,8 @@
   &middot; C++, LLVM
 * [Обработка изображений](https://github.com/vla5924-practice/image-processing)
   &middot; Python, OpenCV
+* [Оптимизация алгоритмов машинного обучения для GPU](https://github.com/vla5924-practice/gpu-algorithms-optimization)
+  &middot; C++, Python
 * [Параллельное программирование](https://github.com/vla5924-practice/parallel-programming)
   &middot; C++, MPI, OpenMP, TBB
 * [Разработка сетевых приложений](https://github.com/vla5924-practice/network-applications)
@@ -39,6 +45,8 @@
 
 ### 2 курс (2019-2020)
 
+* [Алгоритмы и структуры данных (базовая реализация)](https://github.com/vla5924-practice/algorithms-data-structures)
+  &middot; C++
 * [Компьютерная графика](https://github.com/vla5924-practice/computer-graphics)
   &middot; C++, Qt, OpenGL
 * [Методы программирования](https://github.com/vla5924-practice/programming-methods)
