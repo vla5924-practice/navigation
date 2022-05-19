@@ -11,12 +11,14 @@
   &middot; Python
 * [Основы компьютерного зрения](https://github.com/vla5924-practice/computer-vision)
   &middot; Python, OpenCV
+* [Помехоустойчивое кодирование](https://github.com/vla5924-practice/noiseproof-coding)
+  &middot; Python
 * [Программирование на GPU](https://github.com/vla5924-practice/gpu-programming)
   &middot; C++, OpenCL
 * [Программирование распределенных систем](https://github.com/vla5924-practice/distributed-systems)
   &middot; Java
 * [Разработка компилятора](https://github.com/vla5924-practice/compiler-project)
-  &middot; C++
+  &middot; C++, LLVM
 * [Системы поддержки принятия решений](https://github.com/vla5924-practice/decision-support-systems)
   &middot; Python
 * [Технологии программирования мобильных систем](https://github.com/vla5924-practice/mobile-systems)
