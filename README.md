@@ -79,5 +79,7 @@
 #### 2 курс (2024-2025)
 
 * [Глубокое обучение](https://github.com/vla5924-practice/deep-learning) &middot; Python
+* [История и методология ПМИ](https://github.com/vla5924-practice/math-methodology) &middot; TeX
+* [Математические основы криптографии](https://github.com/vla5924-practice/cryptography) &middot; Python
 * [Разработка компилятора](https://github.com/vla5924-practice/compiler-project)
   &middot; C++, LLVM
